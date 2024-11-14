@@ -1,0 +1,35 @@
+_repo: Syyttajat-b-Nelinaytoksinen-draama_74715
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Onerva, L.
+    aliases:
+    - Lehtinen, Hilja Onerva
+    - Lehtinen, Onerva
+    - Madetoja, Hilja Onerva
+    - Streng, Hilja Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+    wikipedia:
+    - https://en.wikipedia.org/wiki/L._Onerva
+    - https://fi.wikipedia.org/wiki/L._Onerva
+description: ''
+gutenberg_issued: '2024-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74715'
+language: fi
+pgterms:marc905: 20240915231720onerva
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Syyttäjät : $b Nelinäytöksinen draama'
+url: http://www.gutenberg.org/ebooks/74715
