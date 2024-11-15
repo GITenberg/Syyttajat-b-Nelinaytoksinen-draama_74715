@@ -1,5 +1,8 @@
 _repo: Syyttajat-b-Nelinaytoksinen-draama_74715
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Onerva, L.
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/L._Onerva
     - https://fi.wikipedia.org/wiki/L._Onerva
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74715#Syyttajat-b-Nelinaytoksinen-draama
 gutenberg_issued: '2024-11-10'
 gutenberg_type: Text
 identifiers:
